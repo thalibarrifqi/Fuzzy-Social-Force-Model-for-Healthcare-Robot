@@ -1,0 +1,97 @@
+﻿Build started 7/7/2021 1:31:35 PM.
+     1>Project "C:\Users\Thalibar Rifqi\documents\visual studio 2013\Projects\HUM_FUZZY_SFM2\HUM_FUZZY_SFM2\HUM_FUZZY_SFM2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Program Files\CoppeliaRobotics\CoppeliaSimEdu\programming\remoteApi" /I"C:\Program Files\CoppeliaRobotics\CoppeliaSimEdu\programming\include" /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D NON_MATLAB_PARSING=1 /D MAX_EXT_API_CONNECTIONS=255 /D DO_NOT_USE_SHARED_MEMORY /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt HUM_FUZZY_SFM2.cpp
+         HUM_FUZZY_SFM2.cpp
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(159): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(160): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(163): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(164): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(169): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(170): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(259): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(260): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(262): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(263): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(267): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(268): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(291): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(292): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(295): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(296): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(301): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(302): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(319): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(320): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(340): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(341): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(349): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(350): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(368): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(369): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(370): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(371): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(380): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(381): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(412): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(413): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(448): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(450): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(455): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(456): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(460): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(461): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(481): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(485): warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(486): warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(496): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(497): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(420): warning C4101: 'j' : unreferenced local variable
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(524): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(535): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(557): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(619): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(620): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(634): warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(635): warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(641): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(642): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(647): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(648): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(663): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(664): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(512): warning C4101: 'angle' : unreferenced local variable
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(696): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(697): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(698): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(699): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(702): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(703): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(704): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\thalibar rifqi\documents\visual studio 2013\projects\hum_fuzzy_sfm2\hum_fuzzy_sfm2\HUM_FUZZY_SFM2.h(705): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>HUM_FUZZY_SFM2.cpp(176): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>HUM_FUZZY_SFM2.cpp(177): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>HUM_FUZZY_SFM2.cpp(184): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>HUM_FUZZY_SFM2.cpp(198): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>HUM_FUZZY_SFM2.cpp(199): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>HUM_FUZZY_SFM2.cpp(202): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>HUM_FUZZY_SFM2.cpp(213): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>HUM_FUZZY_SFM2.cpp(215): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>HUM_FUZZY_SFM2.cpp(224): warning C4305: '=' : truncation from 'double' to 'float'
+     1>HUM_FUZZY_SFM2.cpp(52): warning C4101: 'stat' : unreferenced local variable
+     1>HUM_FUZZY_SFM2.cpp(49): warning C4101: 'bufferName' : unreferenced local variable
+     1>HUM_FUZZY_SFM2.cpp(52): warning C4101: 'episode' : unreferenced local variable
+     1>HUM_FUZZY_SFM2.cpp(52): warning C4101: 'j' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Thalibar Rifqi\documents\visual studio 2013\Projects\HUM_FUZZY_SFM2\x64\Release\HUM_FUZZY_SFM2.exe" /INCREMENTAL:NO /NOLOGO opencv_calib3d310.lib opencv_core310.lib opencv_features2d310.lib opencv_flann310.lib opencv_highgui310.lib opencv_imgcodecs310.lib opencv_imgproc310.lib opencv_ml310.lib opencv_objdetect310.lib opencv_photo310.lib opencv_shape310.lib opencv_stitching310.lib opencv_superres310.lib opencv_ts310.lib opencv_video310.lib opencv_videoio310.lib opencv_videostab310.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Thalibar Rifqi\documents\visual studio 2013\Projects\HUM_FUZZY_SFM2\x64\Release\HUM_FUZZY_SFM2.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Thalibar Rifqi\documents\visual studio 2013\Projects\HUM_FUZZY_SFM2\x64\Release\HUM_FUZZY_SFM2.lib" /MACHINE:X64 x64\Release\extApi.obj
+         x64\Release\extApiPlatform.obj
+         x64\Release\HUM_FUZZY_SFM2.obj
+            Creating library C:\Users\Thalibar Rifqi\documents\visual studio 2013\Projects\HUM_FUZZY_SFM2\x64\Release\HUM_FUZZY_SFM2.lib and object C:\Users\Thalibar Rifqi\documents\visual studio 2013\Projects\HUM_FUZZY_SFM2\x64\Release\HUM_FUZZY_SFM2.exp
+         Generating code
+         Finished generating code
+         HUM_FUZZY_SFM2.vcxproj -> C:\Users\Thalibar Rifqi\documents\visual studio 2013\Projects\HUM_FUZZY_SFM2\x64\Release\HUM_FUZZY_SFM2.exe
+     1>Done Building Project "C:\Users\Thalibar Rifqi\documents\visual studio 2013\Projects\HUM_FUZZY_SFM2\HUM_FUZZY_SFM2\HUM_FUZZY_SFM2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.48
